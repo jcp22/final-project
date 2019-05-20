@@ -1,0 +1,24 @@
+body {
+	background: grey;
+	background-image: url('cancer.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    grid-auto-flow: 
+}
+div {
+    margin: 0 auto;
+    width: 800px;
+}
+
+img {
+    width: 400px;
+}
+
+.center-image {
+    text-align: center;
+}
+
